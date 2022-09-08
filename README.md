@@ -6,4 +6,4 @@ By providing a consistent user interface for access to the tools and computing r
 
 The completely open-source code powering the DE and its backend can be found at https://github.com/cyverse-de/
 
-If you are looking to extend and customize DE for your own project the use of the underlying REST based Terrain API for DE is recommended, check the [introductory webinar](https://cyverse.org/webinar-webapplication) [customized analysis portals](https://cyverse.org/webinar-webapplication) and [documentation](https://de.cyverse.org/terrain/docs/index.html) 
+If you are looking to extend and customize DE for your own project the use of the underlying REST based Terrain API for DE is recommended, check the [introductory webinar](https://cyverse.org/webinar-webapplication), [building customized analysis portal webinar](https://cyverse.org/webinar-webapplication) and [documentation](https://de.cyverse.org/terrain/docs/index.html) 
